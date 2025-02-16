@@ -1,11 +1,13 @@
 import react from 'react'
-import Content from './components/Content'
+import Navbar from './components/Navbar'
+import Carousel from './components/Carousel'
 
 function App() {
   return (
     <>
       <div>
-        <Content />
+        <Navbar label='METEORA'/>
+        <Carousel />
       </div>
     </>
   )
