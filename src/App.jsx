@@ -1,10 +1,11 @@
 import react from 'react'
+import Content from './components/Content'
 
 function App() {
   return (
     <>
       <div>
-        <h1>hello</h1>
+        <Content />
       </div>
     </>
   )
