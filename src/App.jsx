@@ -30,9 +30,6 @@ function App() {
         <Products />
         <Products />
       </div>
-
-      <Products />
-      <Products />
     </>
   )
 }
