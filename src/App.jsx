@@ -3,6 +3,7 @@ import Navbar from './components/Navbar'
 import Carousel from './components/Carousel'
 import Cards from './components/Cards'
 import Products from './components/Products'
+import CardsGrid from './components/CardGrid'
 
 function App() {
   return (
@@ -13,6 +14,8 @@ function App() {
         <Carousel />
 
         <h2 class="text-center" >Busque por categoria :</h2>
+
+        <CardsGrid />
 
         <Cards />
         <Cards />
