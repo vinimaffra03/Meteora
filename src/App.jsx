@@ -19,6 +19,7 @@ function App() {
         <h2 class="text-center my-4 mb-5">Produtos que estão bombando!</h2>
 
         <Produtos />
+
       </div>
     </>
   )

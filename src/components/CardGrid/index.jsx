@@ -1,7 +1,7 @@
 
 function CardsGrid() {
   return (
-    <div class="container row mx-auto g-4">
+    <div class="container row w-100 mx-auto g-4">
 
     <div class="col-6 col-md-2 col-xxl-2 mb-4">
       <div class="card">
@@ -11,7 +11,7 @@ function CardsGrid() {
           <rect width="100%" height="100%" fill="#868e96"></rect>
           <text x="50%" y="50%" fill="#dee2e6" dy=".3em">Image cap</text>
         </svg>
-        <div class="card-header">
+        <div class="card-header pb-0">
           <p class="text-center">
             Categoria
           </p>
@@ -27,7 +27,7 @@ function CardsGrid() {
           <rect width="100%" height="100%" fill="#868e96"></rect>
           <text x="50%" y="50%" fill="#dee2e6" dy=".3em">Image cap</text>
         </svg>
-        <div class="card-header">
+        <div class="card-header pb-0">
           <p class="text-center">
             Categoria
           </p>
@@ -43,7 +43,7 @@ function CardsGrid() {
           <rect width="100%" height="100%" fill="#868e96"></rect>
           <text x="50%" y="50%" fill="#dee2e6" dy=".3em">Image cap</text>
         </svg>
-        <div class="card-header">
+        <div class="card-header pb-0">
           <p class="text-center">
             Categoria
           </p>
@@ -59,7 +59,7 @@ function CardsGrid() {
           <rect width="100%" height="100%" fill="#868e96"></rect>
           <text x="50%" y="50%" fill="#dee2e6" dy=".3em">Image cap</text>
         </svg>
-        <div class="card-header">
+        <div class="card-header pb-0">
           <p class="text-center">
             Categoria
           </p>
@@ -75,7 +75,7 @@ function CardsGrid() {
           <rect width="100%" height="100%" fill="#868e96"></rect>
           <text x="50%" y="50%" fill="#dee2e6" dy=".3em">Image cap</text>
         </svg>
-        <div class="card-header">
+        <div class="card-header pb-0">
           <p class="text-center">
             Categoria
           </p>
@@ -91,7 +91,7 @@ function CardsGrid() {
           <rect width="100%" height="100%" fill="#868e96"></rect>
           <text x="50%" y="50%" fill="#dee2e6" dy=".3em">Image cap</text>
         </svg>
-        <div class="card-header">
+        <div class="card-header pb-0">
           <p class="text-center">
             Categoria
           </p>
