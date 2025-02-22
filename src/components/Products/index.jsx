@@ -5,17 +5,17 @@ import BasicExample from '../Cards';
 
 function Produtos() {
   return (
-    <Container>
-      <Row className='mb-4 pb-4' style={{ gap: '2.5em', flexWrap: 'nowrap' }}>
-        <Col className='col-md-4'><BasicExample /></Col>
-        <Col className='col-md-4'><BasicExample /></Col>
-        <Col className='col-md-4'><BasicExample /></Col>
-      </Row>
-      <Row className='mb-4 pb-4' style={{ gap: '2.5em', flexWrap: 'nowrap'}}>
-        <Col className='col-md-4'><BasicExample /></Col>
-        <Col className='col-md-4'><BasicExample /></Col>
-        <Col className='col-md-4'><BasicExample /></Col>
-      </Row>
+    <Container className='row mx-auto'>
+      
+        <Col className='col-12 col-md-6 col-xl-4 pb-4'><BasicExample /></Col>
+        <Col className='col-12 col-md-6 col-xl-4 pb-4'><BasicExample /></Col>
+        <Col className='col-12 col-md-6 col-xl-4 pb-4'><BasicExample /></Col>
+      
+      
+        <Col className='col-12 col-md-6 col-xl-4 pb-4'><BasicExample /></Col>
+        <Col className='col-12 col-md-6 col-xl-4 pb-4'><BasicExample /></Col>
+        <Col className='col-12 col-md-6 col-xl-4 pb-4'><BasicExample /></Col>
+      
     </Container>
   );
 }
