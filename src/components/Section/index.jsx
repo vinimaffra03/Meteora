@@ -6,12 +6,12 @@ function Section() {
         <div>
             <div></div>
             <div></div>
-            <div></div>
+            <div>hi</div>
         </div>
 
         <div>
             <div></div>
-            <div></div>
+            <div>hi</div>
             <div></div>
         </div>
 
